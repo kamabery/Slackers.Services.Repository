@@ -5,8 +5,13 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseFile>License.txt</PackageLicenseFile>
     <PackageId>Kamabery.Slackers.Services.Repository</PackageId>
-    <Authors>Kamabery.Slackers.Services.Repository</Authors>
+    <Authors>Kurt Mabery</Authors>
     <Product>Kamabery.Slackers.Services.Repository</Product>
+    <RepositoryUrl>https://github.com/kamabery/Slackers.Services.Repository</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <Company />
+    <Description>Simple REST based repository interface to LiteDB and MongoDB</Description>
+    <PackageProjectUrl>https://github.com/kamabery/Slackers.Services.Repository</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
