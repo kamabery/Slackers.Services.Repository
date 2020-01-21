@@ -30,7 +30,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Slackers.Services.Repository\Slackers.Services.Repository.csproj" />
     <ProjectReference Include="..\Model\Model.csproj" />
   </ItemGroup>
 

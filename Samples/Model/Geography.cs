@@ -1,6 +1,7 @@
 ﻿using System;
 using Slackers.Services.Repository;
 
+
 namespace Model
 {
     [CollectionName("Geography")]
